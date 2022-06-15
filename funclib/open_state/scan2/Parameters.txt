@@ -1,0 +1,28 @@
+Parameters for run 6c07281f7cd2b0b3d6b3aa90bd46e2a9 from Thu Jan 30 15:03:09 2020
+
+* PDB STRUCTURE INFO 
+PDB ID: 1xdw.pdb
+Chain identifier to design: A
+
+* DESIGN CONSTRAINTS
+Amino acid positions to diversify: 9A 12A 52A 76A 77A 78A 79A 81A 100A 101A 296A 298A 299A 300A 309A
+Essential amino acid residues: 103A 106A 107A 152A 153A 154A 155A 156A 157A 158A 159A 160A 161A 162A 163A 163A 164A 165A 166A 167A 168A 169A 170A 171A 172A 173A 174A 175A 176A 177A 206A 207A 212A 233A 234A 235A 259A 264A 297A
+Ligand to keep during simulations: none
+Ions to keep during simulations: none
+
+* SEQUENCE SPACE THRESHOLDS
+Minimal number of mutations per design: 
+Maximal number of mutations per design: 
+Minimal PSSM threshold: 
+ΔΔG: 
+Total number of designs in tolerated sequence space: 
+
+* MSA GENERATION
+Min ID: 0.30
+Max targets: 3000
+Coverage: 0.6
+E value: 0.0001
+
+* NOTES
+1xdw_open_15res
+

@@ -1,0 +1,6 @@
+#Here we include the three mutational screenings performed using the FuncLib webserver (http://funclib.weizmann.ac.il/) and the X-ray structure of Hgdh (PDB entry 1XDW). 
+#In each FuncLib calculation, we included as essential residues (i.e., the residues kept fixed to their wild-type conformation during the calculation): i) the catalytic triad, ii) the residues proposed to bind the NADH cofactor (103, 106, 107, 152-177, 206, 207, 212, 233-235, 259, 264, 297) 
+#We selected the amino acid positions to diversify during the FuncLib calculations to include residues in the first shell around the active site, as Arg9, Arg52, Arg76, Thr77, Ala78, Gly79, Asp81, Tyr101, and Ser300 proposed to be involved in the substrate recognition, and in the second shell, as Val11, Glu12, Ile15, Phe16, Arg100, Pro296, Leu298, Gly299, Tyr301, and Met309. 
+#The residues selected for each FuncLib calculation are: i) scan1: Arg52, Thr77-Gly79, Asp81, Tyr101, Ser300, ii) scan2: Arg9, Glu12, Arg52, Arg76-Gly79, Asp81, Arg100, Tyr101, Pro296, Leu298-Ser300, Met309 iii) scan3: Arg9, Val11, Ile15, Phe16, Arg52, Thr77, Arg100, Leu298, Ser300, Tyr301, Met309.
+#We analyzed the percentage of the mutations at each selected amino acid position in the repertoires of multipoint mutants designed by FuncLib and plot them as bar plots
+#To reproduce the analysis and the plots run the bash script

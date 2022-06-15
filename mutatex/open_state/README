@@ -1,0 +1,5 @@
+#Here we employed the FoldX energy function to perform in silico saturation mutagenesis using Mutatex
+#We used this method to estimate the changes upon mutations on the structural stability of Hgdh by performing the calculations on a monomer from the X-ray structure of Hgdh (PDB entry 1XDW, monomer in chain A)
+#to reproduce the analisis run the bash script
+
+ 
