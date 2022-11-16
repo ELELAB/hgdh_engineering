@@ -5,9 +5,11 @@ Cancer Structural Biology, Danish Cancer Society Research Center, 2100, Copenhag
 Repository associated to the publication:
 
 
-Directed evolution of (R)-2-hydroxyglutarate dehydrogenase improves 2-oxoadipate reduction by two order of magnitude
-Veronica Saez-Jimenez, Simone Scrima, Matteo Lambrughi, Elena Papaleo, Valeria Mapelli, Martin K. M. Engqvist, Lisbeth Olsson 
-submitted
+Directed Evolution of (R)-2-Hydroxyglutarate Dehydrogenase Improves 2-Oxoadipate Reduction by 2 Orders of Magnitude.
+Saez-Jimenez, Veronica, Simone Scrima, Matteo Lambrughi, Elena Papaleo, Valeria Mapelli, Martin KM Engqvist, and Lisbeth Olsson. ACS synthetic biology 11, no. 8 (2022): 2779-2790. 
+PMID: 35939387 PMCID: PMC9396657 DOI: 10.1021/acssynbio.2c00162
+
+
 
 contacts for repository:elenap-at-cancer.dk, elpap-at-dtu.dk and matl-at-cancer.dk
 
